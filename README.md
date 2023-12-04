@@ -12,6 +12,8 @@
 ##### *Yönetici olarak belirlenen aliaksu kullanıcı adının şifresi 0012 olarak belirlenmiştir.
 ![kullanici merve](https://github.com/isknergis/toplanti-planlayicisi/blob/main/kullanici%20merve%20ekrani.png)
 
+![kullanici bilgi resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/toplanti%20bilgi%20ekrani.png)
+
 Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup kolay kullanılmasına dikkat edilmiştir.
 
 
