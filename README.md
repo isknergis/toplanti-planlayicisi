@@ -6,11 +6,11 @@
 ![giris resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/giris-ekrani.png)
 
 
-
 ##### *mervegungor kullanıcı adının şifresi 1234 olarak belirlenmiştir.
 ##### *aysesarikaya kullanıcı adının şifresi 1230 olarak belirlenmiştir.
 ##### *ahmettas kullanıcı adının şifresi 0123 olarak belirlenmiştir.
 ##### *Yönetici olarak belirlenen aliaksu kullanıcı adının şifresi 0012 olarak belirlenmiştir.
+![kullanici merve](https://github.com/isknergis/toplanti-planlayicisi/blob/main/kullanici%20merve%20ekrani.png)
 
 Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup kolay kullanılmasına dikkat edilmiştir.
 
