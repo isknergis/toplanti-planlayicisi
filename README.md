@@ -3,6 +3,10 @@
 #### - Yönetici üç kişinin seçtiği olası toplantı tarihlerine göre toplantı gününü belirler ve bunu diğer kullanıcılar ile uygulama üzerindeki belirlenen yönergelere göre paylaşımı yapar.
 #### -Kullanıcılar için belirli kullanıcı adı ve şifre atanmıştır.
 
+![giris resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/giris-ekrani.png)
+
+
+
 ##### *mervegungor kullanıcı adının şifresi 1234 olarak belirlenmiştir.
 ##### *aysesarikaya kullanıcı adının şifresi 1230 olarak belirlenmiştir.
 ##### *ahmettas kullanıcı adının şifresi 0123 olarak belirlenmiştir.
