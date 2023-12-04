@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.Ahmet.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.Ayşe.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.Form1.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.Merve.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.form.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\deneme.YoneticiSayfasi.resources
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\bin\Debug\planlamauygulaması.exe.config
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\bin\Debug\planlamauygulaması.exe
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\bin\Debug\planlamauygulaması.pdb
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.exe
+C:\Users\LENOVO\source\repos\planlamauygulaması\planlamauygulaması\obj\Debug\planlamauygulaması.pdb
