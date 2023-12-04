@@ -13,6 +13,8 @@
 ![kullanici merve](https://github.com/isknergis/toplanti-planlayicisi/blob/main/kullanici%20merve%20ekrani.png)
 
 ![kullanici bilgi resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/toplanti%20bilgi%20ekrani.png)
+## Yönetici kullanıcıların belirlemiş olduğu olası toplantılarını görüntüleyerek olaaı toplantı gününü belirlerken kullanıcılar toplantı zamanını ,bilgilerini detaylı olarak görünteleyip toplantıya katılabilir.
+
 
 Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup kolay kullanılmasına dikkat edilmiştir.
 
