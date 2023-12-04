@@ -18,7 +18,7 @@
 
 ![yonetici sayfasi resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/yonetici%20sayfasi.png)
 
-Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup kolay kullanılmasına dikkat edilmiştir.
+Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup uygulamanın kolay kullanılmasına dikkat edilmiştir.
 
 
 
