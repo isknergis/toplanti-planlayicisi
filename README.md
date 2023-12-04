@@ -12,4 +12,4 @@ Her kullanıcının kendine ait kişisel sayfası tasarlanmış olup kolay kulla
 
 
 
-C# ile yapılmıştır. Masaüstü toplantı planlama uygulamasıdır.
+C# ile tasarlanmıştır. Masaüstü toplantı planlama uygulamasıdır.
