@@ -2,7 +2,7 @@
 #### - Üç kullanıcının olası toplantı tarihlerini seçmelerini sağlayan toplantı planlama uygulamasıdır.
 #### - Yönetici üç kişinin seçtiği olası toplantı tarihlerine göre toplantı gününü belirler ve bunu diğer kullanıcılar ile uygulama üzerindeki belirlenen yönergelere göre paylaşımı yapar.
 #### -Kullanıcılar için belirli kullanıcı adı ve şifre atanmıştır.
-#### Random kod toplantı ile ilişkilendirildmiştir.
+#### Random kod toplantı ile ilişkilendirilmiştir.
 
 ![giris resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/giris-ekrani.png)
 
@@ -14,7 +14,7 @@
 ![kullanici merve](https://github.com/isknergis/toplanti-planlayicisi/blob/main/kullanici%20merve%20ekrani.png)
 
 ![kullanici bilgi resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/toplanti%20bilgi%20ekrani.png)
-#### Yönetici kullanıcıların belirlemiş olduğu olası toplantılarını görüntüleyerek olası toplantı gününü belirlerken kullanıcılar toplantı zamanını ,bilgilerini detaylı olarak görünteleyip toplantıya katılabilir.
+#### Yönetici kullanıcıların belirlemiş olduğu olası toplantılarını görüntüleyerek olası toplantı gününü belirlerken kullanıcılar toplantı zamanını, bilgilerini detaylı olarak görüntüleyip toplantıya katılabilir.
 
 ![yonetici sayfasi resmi](https://github.com/isknergis/toplanti-planlayicisi/blob/main/yonetici%20sayfasi.png)
 
